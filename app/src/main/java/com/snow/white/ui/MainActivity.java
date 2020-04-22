@@ -1,8 +1,10 @@
-package com.snow.white;
+package com.snow.white.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.snow.white.R;
 
 public class MainActivity extends AppCompatActivity {
 
