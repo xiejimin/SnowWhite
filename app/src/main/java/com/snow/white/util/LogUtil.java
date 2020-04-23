@@ -3,7 +3,7 @@ package com.snow.white.util;
 import android.util.Log;
 
 public class LogUtil {
-
+//1
     private static final boolean isDebug = true;
 
     public void d(String tag, String message) {
