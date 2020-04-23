@@ -11,4 +11,16 @@ public class LogUtil {
             Log.d(tag, message);
         }
     }
+
+    public void e(String tag, String message) {
+        if(isDebug){
+            Log.e(tag, message);
+        }
+    }
+
+    public void i(String tag, String message) {
+        if(isDebug){
+            Log.i(tag, message);
+        }
+    }
 }
